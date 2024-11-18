@@ -1,11 +1,10 @@
 body{    
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, Times, serif, 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-image: url('media/background.gif');
-    background-size: cover;
+    background-size:contain;
     background-position: center;
     background-attachment: fixed;        
-    height: 220vh;
-    width: 1800px;    
+    height: 220vh;       
     padding:0;
     margin:0;
 }

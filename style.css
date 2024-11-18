@@ -4,7 +4,7 @@ body{
     background-size: cover;
     background-position: center;
     background-attachment: fixed;        
-    height: 215vh;    
+    height: 220vh;    
     padding:0;
     margin:0;
 }
@@ -13,22 +13,22 @@ video{
     margin-bottom: 20px;
 }
 img{
-    margin: 0px 600px 0px 550px;    
+    margin: 0px auto 0px auto;    
     padding-bottom: 50px;    
     
 }
 .banner1{    
     width: 600px;
-    height: 500px;
+    height: 1000px;
     margin: 20px auto 60px auto;
-    text-align: left;  
+    text-align: center;  
     
 }
 .banner2{
     width: 600px;
     height: 600px;
-    margin: 250px auto 240px auto;
-    text-align: left; 
+    margin: 250px auto 300px auto;
+    text-align: center; 
 }
 .text{
     border-bottom: 4px solid black;

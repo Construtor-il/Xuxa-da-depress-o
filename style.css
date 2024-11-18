@@ -4,7 +4,8 @@ body{
     background-size: cover;
     background-position: center;
     background-attachment: fixed;        
-    height: 220vh;    
+    height: 220vh;
+    width: 1800px;    
     padding:0;
     margin:0;
 }
@@ -69,5 +70,5 @@ img{
     font-size: 35px;
     text-align: center;    
     -webkit-text-fill-color: white;  
-     margin-left: 700px;
+     
 }

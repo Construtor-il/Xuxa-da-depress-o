@@ -3,7 +3,7 @@
     src: url("comicaregular.otf");                     
 } 
 body{  
-    font-family:comicaregular;  
+    font-family:'Courier New', Courier, monospace;  
     background-image: url('media/background.gif');
     background-size:cover;
     background-position: center;

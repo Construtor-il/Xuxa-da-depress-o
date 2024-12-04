@@ -1,7 +1,3 @@
-@font-face {
-    font-family:comicaregular;
-    src: url("comicaregular.otf");                     
-} 
 body{  
     font-family:'Courier New', Courier, monospace;  
     background-image: url('media/background.gif');

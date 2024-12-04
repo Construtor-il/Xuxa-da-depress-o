@@ -1,5 +1,9 @@
-body{    
+@font-face {
     font-family:comicaregular;
+    src: url("comicaregular.otf");                     
+} 
+body{  
+    font-family:comicaregular;  
     background-image: url('media/background.gif');
     background-size:cover;
     background-position: center;

@@ -1,5 +1,5 @@
 body{  
-    font-family:"comicaregular";  
+    font-family:"silverchristmas";  
     background-image: url('media/background.gif');
     background-size:cover;
     background-position: center;
@@ -12,6 +12,7 @@ video{
     border: 7px solid black;
     margin-bottom: 20px;
     border-radius: 10px 10px;
+
 }
 img{
     margin: 0px auto 0px auto;    
@@ -22,8 +23,8 @@ img{
     width: 612px;
     height: 1000px;
     margin: 20px auto 30px auto;
-    text-align: center;     
-    
+    text-align: center;
+    display: flex;    
 }
 .banner2{    
     width: 612px;

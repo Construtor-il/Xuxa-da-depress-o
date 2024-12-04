@@ -1,5 +1,5 @@
 body{  
-    font-family:"silverchristmas";  
+    font-family:"fredoka";  
     background-image: url('media/background.gif');
     background-size:cover;
     background-position: center;
@@ -11,20 +11,19 @@ body{
 video{
     border: 7px solid black;
     margin-bottom: 20px;
-    border-radius: 10px 10px;
-
+    border-radius: 10px 10px
 }
 img{
     margin: 0px auto 0px auto;    
     padding-bottom: 50px;    
-    
 }
 .banner1{        
     width: 612px;
     height: 1000px;
     margin: 20px auto 30px auto;
     text-align: center;
-    display: flex;    
+    display: flex;
+    flex-wrap: wrap; 
 }
 .banner2{    
     width: 612px;

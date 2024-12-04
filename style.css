@@ -1,34 +1,38 @@
 body{  
     font-family:"fredoka";  
     background-image: url('media/background.gif');
-    background-size:cover;
+    background-size:cover;    
     background-position: center;
     background-attachment: fixed;        
-    height: 215vh;       
+    height: 220vh;       
     padding:0;
     margin:0;
-}
+    width: 1400px;
+    }    
 video{
     border: 7px solid black;
     margin-bottom: 20px;
-    border-radius: 10px 10px
+    border-radius: 10px 10px     
 }
 img{
     margin: 0px auto 0px auto;    
-    padding-bottom: 50px;    
+    padding-bottom: 50px;
+    width: 600px;      
 }
 .banner1{        
     width: 612px;
     height: 1000px;
-    margin: 20px auto 30px auto;
+    margin: 20px auto 50px auto;
     text-align: center;
-    display: flex;
-    flex-wrap: wrap; 
+    background-color: black;
+    border-radius: 10px 10px;
 }
 .banner2{    
     width: 612px;
-    height: 600px;
-    margin: 150px auto 200px auto;    
+    height: 668px;
+    margin: 50px auto 100px auto;
+    background-color: black;
+    border-radius: 10px 10px;
 }
 .text{    
     font-size: 30px;
@@ -74,6 +78,5 @@ img{
     font-size: 20px;
     text-align: center;    
     -webkit-text-fill-color: white;
-    text-shadow: black 3px 3px 3px; 
-     
+    text-shadow: black 3px 3px 3px;
 }
